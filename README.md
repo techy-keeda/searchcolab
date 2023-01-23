@@ -1,10 +1,6 @@
 # Searchcolab : Share and Find Colab Notebooks
 ### Introduction
-Welcome to Searchcolab - the ultimate online directory for sharing and finding Colab Notebooks on any topic. Our platform is designed to make it easy for you to discover and collaborate on a wide range of projects, from machine learning to natural language processing and beyond.
-
-<div style="text-align: center;">
-  <img src="https://user-images.githubusercontent.com/72146140/214037465-2b74fc94-ab53-4a3c-9913-3e930bfa42aa.png" alt="example image" style="width: 50px; height: 50px;">
-</div>
+Welcome to Searchcolab - the online directory for sharing and finding Colab Notebooks on any topic. Our platform is designed to make it easy for you to discover and collaborate on a wide range of projects, from machine learning to natural language processing and beyond.
 
 ### What is Searchcolab?
 Searchcolab is a Google Sheet that acts as a directory for Colab Notebooks. It allows users to search and find Colab Notebooks based on different topics and categories. The platform also enables users to share their own Colab Notebooks, making it a great resource for students, researchers, and data scientists.
